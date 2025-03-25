@@ -1,10 +1,10 @@
 # AI Virtual Assistant
 
-Overview
+#Overview
 
 The Virtual Personal Assistant is an AI-driven application designed to help users manage their daily tasks through natural voice interactions. This assistant can set reminders, fetch weather updates, and perform speech-to-text and text-to-speech conversions. The project utilizes Python and NLP libraries to provide a seamless user experience.
 
-Features
+#Features
 
 Voice Interaction System: Allows users to interact using natural speech commands.
 
@@ -18,7 +18,7 @@ Text-to-Speech Conversion: Uses pyttsx3 for spoken responses.
 
 Optimized Voice Processing: Enhances efficiency and response time.
 
-Future Enhancements:
+#Future Enhancements:
 
 Priority task queues
 
@@ -26,7 +26,7 @@ Conversational AI for more interactive responses
 
 Proactive task suggestions
 
-Technologies Used
+#Technologies Used
 
 Python: Core programming language
 
